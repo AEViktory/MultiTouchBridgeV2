@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AE MultiTouch Bridge 2.0.1</string>
+    <string name="service_description">Inspecciona elementos accesibles y ejecuta acciones solicitadas por AE MultiTouch Bridge y Tasker.</string>
+</resources>
